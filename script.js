@@ -13,12 +13,8 @@ const squads = [
   "https://7a0.com.br/squads/BRA-1994-c682ea9c.json",
   "https://7a0.com.br/squads/BRA-1966-712b5a5b.json",
   "https://7a0.com.br/squads/ARG-2010-5cd69e52.json",
-  "https://7a0.com.br/squads/FRA-2022-d1c881bc.json",
-  "https://7a0.com.br/squads/BRA-1958-ceff109b.json",
   "https://7a0.com.br/squads/BRA-2006-afaaacfc.json",
   "https://7a0.com.br/squads/ESP-2010-b92bcad8.json",
-  "https://7a0.com.br/squads/ARG-1994-305865d2.json",
-  "https://7a0.com.br/squads/BRA-1982-000a5ba5.json",
   "https://7a0.com.br/squads/BRA-2026-c0a35709.json",
   "https://7a0.com.br/squads/NED-1990-10593365.json",
   "https://7a0.com.br/squads/NED-1994-9414488e.json",
@@ -30,11 +26,8 @@ const squads = [
   "https://7a0.com.br/squads/NED-1974-c81e07af.json",
   "https://7a0.com.br/squads/GER-1974-36443d93.json",
   "https://7a0.com.br/squads/BRA-1962-971e855a.json",
-  "https://7a0.com.br/squads/ENG-1966-3015d733.json",
-  "https://7a0.com.br/squads/ITA-1986-9e5cec96.json",
   "https://7a0.com.br/squads/ITA-1990-375d41c5.json",
 ];
-
 // Cópia do pool para ir removendo as squads já usadas
 let remainingSquads = [...squads];
 
